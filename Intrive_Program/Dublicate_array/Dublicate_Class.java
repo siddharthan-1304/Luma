@@ -1,0 +1,7 @@
+package Dublicate_array;
+
+public class Dublicate_Class {
+	
+	
+
+}
