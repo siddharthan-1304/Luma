@@ -1,0 +1,14 @@
+package src.Intrive;
+
+public class rev_s {
+	
+	public static void main(String args[]) {
+		
+		String word ="java ";
+		
+		
+		
+		
+	}
+
+}
